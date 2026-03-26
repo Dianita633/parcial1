@@ -1,0 +1,28 @@
+body{ 
+	background: skyblue;
+	color: black;
+	font-family: centuruy gothic;
+}
+
+/*Titulo con otro tipo de letra y otro color*/
+
+h1{
+	font-family: courier;
+	color: black;
+
+ }
+
+
+ /*Wl parajo numero dos que es del diablo, ponerlo en negritas y cursiva*/
+
+ .coco{ 
+ 	font-weight: bolder;
+ 	font-style:  italic;
+ }
+
+ /*enlace 1 de color azul y tamaño 20*/
+
+ p a{ 
+ 	color: hotpink ;
+ 	font-size: 20px;
+ }
